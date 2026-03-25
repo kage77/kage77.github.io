@@ -488,7 +488,7 @@ export default function Portfolio() {
               >
                 <div className="flex items-center justify-between mb-3">
                   <div className="flex items-center gap-2.5">
-                    <GitBranch size={16} style={{ color: coral }} />
+                    <Github size={16} style={{ color: coral }} />
                     <h4 className="text-base font-bold" style={{ color: navy }}>tableau-embedded-to-published</h4>
                   </div>
                   <ExternalLink size={13} className="opacity-0 group-hover:opacity-50 transition-opacity" style={{ color: "#7a7f8a" }} />
