@@ -1,10 +1,10 @@
 import { useState, useEffect, useRef } from "react";
 import {
-  Mail, Github, Linkedin, ExternalLink, ChevronDown,
+  Mail, GitBranch as Github, Link as Linkedin, ExternalLink, ChevronDown,
   Calendar, Code, Database, Brain, Heart, Shield,
   BarChart3, Cpu, Users, Layers, Terminal,
   GraduationCap, Award, MapPin, ArrowRight, Menu, X,
-  Activity, Dna, FileText, Lock, Zap, GitBranch,
+  Activity, Dna, FileText, Lock, Zap,
   TrendingUp, Target, Workflow, Search, MessageSquare
 } from "lucide-react";
 
